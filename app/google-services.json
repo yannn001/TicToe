@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61821781053",
+    "project_id": "tictoe-3042d",
+    "storage_bucket": "tictoe-3042d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61821781053:android:b7542ec021952af1b01654",
+        "android_client_info": {
+          "package_name": "com.yanciar.tictoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZO7gVsllElZ-hhtZVfR8UbojAIsdjbJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
